@@ -20,7 +20,7 @@
 
 Isso criará um diretório nome_do_ambiente no diretório atual, contendo uma instalação isolada do Python e do pip para gerenciar pacotes.
 
-Ativar o ambiente virtual:
+## Ativar o ambiente virtual:
 
 No Windows(GitBash):
 
