@@ -20,21 +20,21 @@
 
 Isso criará um diretório nome_do_ambiente no diretório atual, contendo uma instalação isolada do Python e do pip para gerenciar pacotes.
 
+
 ## Ativar o ambiente virtual:
 
-No Windows(GitBash):
+
+No Windows (GitBash):
 
 	source nome_do_ambiente/Scripts/activate
 
 No Windows (usando cmd):
 
-
-
 	nome_do_ambiente\Scripts\activate.bat
 
 
 
-3. **Instalar bibliotecas no ambiente virtual**:
+## Instalar bibliotecas no ambiente virtual:
 
 Após ativar o ambiente virtual, você pode instalar as bibliotecas necessárias utilizando o pip. Por exemplo:
 
